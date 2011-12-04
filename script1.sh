@@ -1,5 +1,6 @@
 #! /bin/bash
 
+#Adding comments
 clear
 
 echo "Hello $USER"
