@@ -9,6 +9,7 @@ echo
 
 echo "Listing current users"
 
+#What is this
 w
 
 COLOUR=black
